@@ -32,11 +32,6 @@ I am an Electronics & Communication Engineering graduate with a strong interest 
 * Cisco IoT Fundamentals
 * Data Science Training
 
-### Connect With Me
-
-* LinkedIn
-* GitHub
-* Email
 
   
 
